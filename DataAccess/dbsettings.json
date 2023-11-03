@@ -1,0 +1,5 @@
+{
+  "ConnectionStrings": {
+    "CleanArchitecture": "Data Source=.;Initial Catalog=CleanArchitecture;Integrated Security=True;MultipleActiveResultSets=True;TrustServerCertificate=True;"
+  }
+}
